@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2e8fbb6.css",
+    "main.js": "/static/js/main.83ed3d83.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/freepik-export-20241124231008JMai.png": "/static/media/freepik-export-20241124231008JMai.0b4bfa1230f362014613.png",
+    "index.html": "/index.html",
+    "main.d2e8fbb6.css.map": "/static/css/main.d2e8fbb6.css.map",
+    "main.83ed3d83.js.map": "/static/js/main.83ed3d83.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e8fbb6.css",
+    "static/js/main.83ed3d83.js"
+  ]
+}
